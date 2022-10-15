@@ -10,7 +10,7 @@ I'm a self-taught open-source developer who enjoys building useful things.
 
 I occasionally write about my projects and share tidbits of knowledge: https://twiddlingbits.net/
 
-##### Recent posts
+##### Latest posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
