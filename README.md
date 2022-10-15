@@ -12,6 +12,11 @@ I occasionally write about my projects and share tidbits of knowledge: https://t
 
 ##### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a D-Bus service in Python](https://twiddlingbits.net/building-a-d-bus-service-in-python)
+- [I made a monitor brightness controller using an Arduino-powered light sensor](https://twiddlingbits.net/arduino-monitor-controller)
+- [Debug logging in Go](https://twiddlingbits.net/debug-logging-in-go)
+- [luarocket, or vendoring Lua rocks](https://twiddlingbits.net/luarocket)
+- [From Pod to man pages](https://twiddlingbits.net/from-pod-to-man-pages)
 <!-- BLOG-POST-LIST:END -->
 
 ### Maker of things
