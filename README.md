@@ -4,7 +4,14 @@
 
 I'm a self-taught open-source developer who enjoys building useful things.
 
+<a href="https://www.kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="20" height="20"/></a>
+All of my projects run on Linux
+
+<a href="https://getfedora.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" width="17" height="17"/></a>
+My distro of choice is Fedora
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Occasional blogger
 
@@ -18,6 +25,7 @@ I occasionally write about my projects and share tidbits of knowledge: https://t
 - [luarocket, or vendoring Lua rocks](https://twiddlingbits.net/luarocket)
 - [From Pod to man pages](https://twiddlingbits.net/from-pod-to-man-pages)
 <!-- BLOG-POST-LIST:END -->
+
 
 ### Maker of things
 
