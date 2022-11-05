@@ -39,6 +39,8 @@ I even document the technicalities of my projects.
   - [awesome-dovetail](https://jcrd.github.io/awesome-dovetail/)
   - [awesome-launch](https://jcrd.github.io/awesome-launch/)
   - [awesome-viewport](https://jcrd.github.io/awesome-viewport/)
+- Internal architecture
+  - [tidepool](https://github.com/jcrd/tidepool/blob/master/ARCHITECTURE.md)
 
 
 ### Maker of things
