@@ -13,11 +13,14 @@ My distro of choice is Fedora
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Occasional blogger
+### Occasional blogger and technical writer
 
 I occasionally write about my projects and share tidbits of knowledge: https://twiddlingbits.net/
 
-##### Latest posts
+I even document the technicalities of my projects.
+
+##### Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Building a D-Bus service in Python](https://twiddlingbits.net/building-a-d-bus-service-in-python)
 - [I made a monitor brightness controller using an Arduino-powered light sensor](https://twiddlingbits.net/arduino-monitor-controller)
@@ -25,6 +28,17 @@ I occasionally write about my projects and share tidbits of knowledge: https://t
 - [luarocket, or vendoring Lua rocks](https://twiddlingbits.net/luarocket)
 - [An alternative markup language for man pages](https://twiddlingbits.net/alt-markup-for-man-pages)
 <!-- BLOG-POST-LIST:END -->
+
+##### Technical documentation
+
+- [sessiond](https://github.com/jcrd/sessiond)'s [documentation website](https://sessiond.org/)
+  - sessiond's [Python client](https://sessiond.org/python/)
+- Various Lua libraries
+  - [lua-sessiond_dbus](https://jcrd.github.io/lua-sessiond_dbus/)
+  - [awesome-ez](https://jcrd.github.io/awesome-ez/)
+  - [awesome-dovetail](https://jcrd.github.io/awesome-dovetail/)
+  - [awesome-launch](https://jcrd.github.io/awesome-launch/)
+  - [awesome-viewport](https://jcrd.github.io/awesome-viewport/)
 
 
 ### Maker of things
