@@ -33,7 +33,7 @@ I even document the technicalities of my projects.
 
 - [sessiond](https://github.com/jcrd/sessiond)'s [documentation website](https://sessiond.org/)
   - sessiond's [Python client](https://sessiond.org/python/)
-- Various Lua libraries
+- Lua libraries
   - [lua-sessiond_dbus](https://jcrd.github.io/lua-sessiond_dbus/)
   - [awesome-ez](https://jcrd.github.io/awesome-ez/)
   - [awesome-dovetail](https://jcrd.github.io/awesome-dovetail/)
