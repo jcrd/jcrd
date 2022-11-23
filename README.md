@@ -22,11 +22,11 @@ I even document the technicalities of my projects.
 ##### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [git ship alias](https://twiddlingbits.net/git-ship-alias)
 - [Container-based development with toolboxcutter](https://twiddlingbits.net/container-based-development-with-toolboxcutter)
 - [Building a D-Bus service in Python](https://twiddlingbits.net/building-a-d-bus-service-in-python)
 - [I made a monitor brightness controller using an Arduino-powered light sensor](https://twiddlingbits.net/arduino-monitor-controller)
 - [Debug logging in Go](https://twiddlingbits.net/debug-logging-in-go)
-- [luarocket, or vendoring Lua rocks](https://twiddlingbits.net/luarocket)
 <!-- BLOG-POST-LIST:END -->
 
 ##### Technical documentation
