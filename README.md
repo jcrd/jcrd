@@ -1,8 +1,8 @@
 ## James Reed: hi 👋
 
-### Open-source developer
+### 👨‍💻 Open-source developer
 
-I'm a self-taught open-source developer who enjoys building useful things.
+I'm a self-taught open-source developer who enjoys building useful things!
 
 <a href="https://www.kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="20" height="20"/></a>
 All of my projects run on Linux
@@ -13,11 +13,9 @@ My distro of choice is Fedora
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Occasional blogger and technical writer
+### ⌨️ Occasional blogger and technical writer
 
-I occasionally write about my projects and share tidbits of knowledge: https://twiddlingbits.net/
-
-I even document the technicalities of my projects.
+🧠 I occasionally write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/)
 
 ##### Latest blog posts
 
@@ -28,6 +26,8 @@ I even document the technicalities of my projects.
 - [I made a monitor brightness controller using an Arduino-powered light sensor](https://twiddlingbits.net/arduino-monitor-controller)
 - [Debug logging in Go](https://twiddlingbits.net/debug-logging-in-go)
 <!-- BLOG-POST-LIST:END -->
+
+📑 I even document the technicalities of my projects
 
 ##### Technical documentation
 
@@ -43,7 +43,7 @@ I even document the technicalities of my projects.
   - [tidepool](https://github.com/jcrd/tidepool/blob/master/ARCHITECTURE.md)
 
 
-### Maker of things
+### 🛠️ Maker of things
 
 I've made some things with hardware and software ranging in usefulness.
 
