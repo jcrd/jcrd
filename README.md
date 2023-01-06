@@ -20,11 +20,11 @@ My distro of choice is Fedora
 ##### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On reproducible distro configuration](https://twiddlingbits.net/on-reproducible-distro-configuration)
 - [git ship alias](https://twiddlingbits.net/git-ship-alias)
 - [Container-based development with toolboxcutter](https://twiddlingbits.net/container-based-development-with-toolboxcutter)
 - [Building a D-Bus service in Python](https://twiddlingbits.net/building-a-d-bus-service-in-python)
 - [I made a monitor brightness controller using an Arduino-powered light sensor](https://twiddlingbits.net/arduino-monitor-controller)
-- [Debug logging in Go](https://twiddlingbits.net/debug-logging-in-go)
 <!-- BLOG-POST-LIST:END -->
 
 📑 I even document the technicalities of my projects
