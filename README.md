@@ -1,6 +1,4 @@
-## James Reed: hi 👋
-
-### 👨‍💻 Open-source developer
+## 👨‍💻 Open-source developer
 
 I'm a self-taught open-source developer who enjoys building useful things!
 
@@ -13,11 +11,9 @@ My distro of choice is Fedora
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### ⌨️ Occasional blogger and technical writer
+## ⌨️ Occasional blogger and technical writer
 
-🧠 I occasionally write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/)
-
-##### Latest blog posts
+🧠 I occasionally write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/):
 
 <!-- BLOG-POST-LIST:START -->
 - [On reproducible distro configuration](https://twiddlingbits.net/on-reproducible-distro-configuration)
@@ -26,27 +22,23 @@ My distro of choice is Fedora
 - [Building a D-Bus service in Python](https://twiddlingbits.net/building-a-d-bus-service-in-python)
 - [I made a monitor brightness controller using an Arduino-powered light sensor](https://twiddlingbits.net/arduino-monitor-controller)
 <!-- BLOG-POST-LIST:END -->
+- [...and more!](https://twiddlingbits.net/archive)
 
-📑 I even document the technicalities of my projects
-
-##### Technical documentation
+📑 I even document the technicalities of my projects:
 
 - [sessiond](https://github.com/jcrd/sessiond)'s [documentation website](https://sessiond.org/)
   - sessiond's [Python client](https://sessiond.org/python/)
 - Lua libraries
   - [lua-sessiond_dbus](https://jcrd.github.io/lua-sessiond_dbus/)
-  - [awesome-ez](https://jcrd.github.io/awesome-ez/)
-  - [awesome-dovetail](https://jcrd.github.io/awesome-dovetail/)
-  - [awesome-launch](https://jcrd.github.io/awesome-launch/)
-  - [awesome-viewport](https://jcrd.github.io/awesome-viewport/)
+  - [...and others!](https://github.com/jcrd?tab=repositories&language=lua)
 - Internal architecture
   - [tidepool](https://github.com/jcrd/tidepool/blob/master/ARCHITECTURE.md)
 
 
-### 🛠️ Maker of things
+## 🛠️ Maker of things
 
-I've made some things with hardware and software ranging in usefulness.
+I've made some things with hardware and software ranging in usefulness:
 
 * [lifelight](https://github.com/jcrd/lifelight), the Game of Life displayed on an LED matrix powered by a Raspberry Pi
 * [lighten](https://github.com/jcrd/lighten), a monitor brightness controller using an Arduino-powered light sensor
-* Assorted [Arduino projects](https://github.com/jcrd?tab=repositories&q=arduino&type=&language=&sort=)
+* Assorted [Arduino projects](https://github.com/jcrd?tab=repositories&q=arduino)
