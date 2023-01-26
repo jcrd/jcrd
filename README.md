@@ -8,7 +8,7 @@ All of my projects run on Linux
 <a href="https://getfedora.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" width="17" height="17"/></a>
 My distro of choice is Fedora
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jcrd.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⌨️ Occasional blogger and technical writer
