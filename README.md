@@ -41,4 +41,5 @@ I've made some things with hardware and software ranging in usefulness:
 
 * [lifelight](https://github.com/jcrd/lifelight), the Game of Life displayed on an LED matrix powered by a Raspberry Pi
 * [lighten](https://github.com/jcrd/lighten), a monitor brightness controller using an Arduino-powered light sensor
-* Assorted [Arduino projects](https://github.com/jcrd?tab=repositories&q=arduino)
+* [artificial-sun](https://github.com/jcrd/artificial-sun), an Arduino and NeoPixel ring sun based on time of day for use in a terrarium
+* [...and assorted Arduino projects!](https://github.com/jcrd?tab=repositories&q=arduino)
