@@ -16,11 +16,11 @@ My distro of choice is Fedora
 🧠 I occasionally write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/):
 
 <!-- BLOG-POST-LIST:START -->
+- [Let there be light!](https://twiddlingbits.net/artificial-sun)
 - [Packaging software in RPM-land](https://twiddlingbits.net/packaging-software-in-rpm-land)
 - [On reproducible distro configuration](https://twiddlingbits.net/on-reproducible-distro-configuration)
 - [git ship alias](https://twiddlingbits.net/git-ship-alias)
 - [Container-based development with toolboxcutter](https://twiddlingbits.net/toolboxcutter)
-- [Building a D-Bus service in Python](https://twiddlingbits.net/building-a-d-bus-service-in-python)
 <!-- BLOG-POST-LIST:END -->
 - [...and more!](https://twiddlingbits.net/archive)
 
