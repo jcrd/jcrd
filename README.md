@@ -11,9 +11,9 @@ My distro of choice is Fedora
 [![Top Langs](https://github-readme-stats-jcrd.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ⌨️ Occasional blogger and technical writer
+## ⌨️ Blogger and technical writer
 
-🧠 I occasionally write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/):
+🧠 I write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/):
 
 <!-- BLOG-POST-LIST:START -->
 - [Let there be light!](https://twiddlingbits.net/artificial-sun)
