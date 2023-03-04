@@ -16,11 +16,11 @@ My distro of choice is Fedora
 🧠 I write about my projects and share tidbits of knowledge on [my blog](https://twiddlingbits.net/):
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a Linux home server with Ansible and containerized apps](https://twiddlingbits.net/setting-up-a-linux-home-server)
 - [A brief experiment in detecting ambient light](https://twiddlingbits.net/detecting-ambient-light)
 - [Let there be light!](https://twiddlingbits.net/artificial-sun)
 - [Packaging software in RPM-land](https://twiddlingbits.net/packaging-software-in-rpm-land)
 - [On reproducible distro configuration](https://twiddlingbits.net/on-reproducible-distro-configuration)
-- [git ship alias](https://twiddlingbits.net/git-ship-alias)
 <!-- BLOG-POST-LIST:END -->
 - [...and more!](https://twiddlingbits.net/archive)
 
