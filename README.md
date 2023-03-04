@@ -1,6 +1,6 @@
 ## 👨‍💻 Open-source developer
 
-I'm a self-taught open-source developer who enjoys building useful things!
+I'm a self-taught open source developer who enjoys building useful things!
 
 <a href="https://www.kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="20" height="20"/></a>
 All of my projects run on Linux
