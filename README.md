@@ -1,4 +1,4 @@
-## 👨‍💻 Open-source developer
+## 👨‍💻 Developer
 
 <a href="https://www.kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="20" height="20"/></a>
 All of my projects run on Linux
@@ -8,7 +8,7 @@ My distro of choice is Fedora
 
 [![Top Langs](https://github-readme-stats-jcrd.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⌨️ Technical blogger
+## ⌨️ Blogger
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with GNOME Shell extension development](https://twiddlingbits.net/gnome-shell-extension-development)
@@ -19,7 +19,7 @@ My distro of choice is Fedora
 <!-- BLOG-POST-LIST:END -->
 - [...and more](https://twiddlingbits.net/)
 
-## 🛠️ Maker of things
+## 🛠️ Maker
 
 * [lifelight](https://github.com/jcrd/lifelight), the Game of Life displayed on an LED matrix powered by a Raspberry Pi
 * [lighten](https://github.com/jcrd/lighten), a monitor brightness controller using an Arduino-powered light sensor
