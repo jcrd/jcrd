@@ -8,11 +8,11 @@
 ## ⌨️ Blogger
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronizing and backing up Logseq data with Syncthing and rclone](https://jcrd.hashnode.dev/synchronizing-and-backing-up-logseq-data)
-- [Getting started with GNOME Shell extension development](https://jcrd.hashnode.dev/gnome-shell-extension-development)
-- [Setting up a Linux home server with Ansible and containerized apps](https://jcrd.hashnode.dev/setting-up-a-linux-home-server)
-- [A brief experiment in detecting ambient light](https://jcrd.hashnode.dev/detecting-ambient-light)
-- [Let there be light!](https://jcrd.hashnode.dev/artificial-sun)
+- [Synchronizing and backing up Logseq data with Syncthing and rclone](https://twiddlingbits.net/synchronizing-and-backing-up-logseq-data)
+- [Getting started with GNOME Shell extension development](https://twiddlingbits.net/gnome-shell-extension-development)
+- [Setting up a Linux home server with Ansible and containerized apps](https://twiddlingbits.net/setting-up-a-linux-home-server)
+- [A brief experiment in detecting ambient light](https://twiddlingbits.net/detecting-ambient-light)
+- [Let there be light](https://twiddlingbits.net/artificial-sun)
 <!-- BLOG-POST-LIST:END -->
 - [...and more](https://twiddlingbits.net/)
 
