@@ -9,7 +9,7 @@
 ## ⌨️ Blogger
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronizing and backing up Logseq data with Syncthing and rclone](https://twiddlingbits.net/synchronizing-and-backing-up-logseq-data)
+- [Synchronizing and backing up data with Syncthing and rclone](https://twiddlingbits.net/synchronizing-and-backing-up-data)
 - [Getting started with GNOME Shell extension development](https://twiddlingbits.net/gnome-shell-extension-development)
 - [Setting up a Linux home server with Ansible and containerized apps](https://twiddlingbits.net/setting-up-a-linux-home-server)
 - [A brief experiment in detecting ambient light](https://twiddlingbits.net/detecting-ambient-light)
