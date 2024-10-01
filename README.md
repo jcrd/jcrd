@@ -2,7 +2,7 @@
 
 <a href="https://www.kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="20" height="20"/></a>
 /
-<a href="https://fedoraproject.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" width="20" height="20"/></a>
+<a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="20" height="20"/></a>
 
 [![Top Langs](https://github-readme-stats-jcrd.vercel.app/api/top-langs/?username=jcrd&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
