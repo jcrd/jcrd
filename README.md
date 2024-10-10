@@ -9,11 +9,11 @@
 ## ⌨️ Blogger
 
 <!-- BLOG-POST-LIST:START -->
-- [Packaging apps for Linux with AppImage](https://twiddlingbits.net/packaging-apps-for-linux-with-appimage)
-- [Synchronizing and backing up data with Syncthing and rclone](https://twiddlingbits.net/synchronizing-and-backing-up-data)
-- [Getting started with GNOME Shell extension development](https://twiddlingbits.net/gnome-shell-extension-development)
-- [Setting up a Linux home server with Ansible and containerized apps](https://twiddlingbits.net/setting-up-a-linux-home-server)
-- [A brief experiment in detecting ambient light](https://twiddlingbits.net/detecting-ambient-light)
+- [Packaging apps for Linux with AppImage](https://blog.jamesreed.dev/packaging-apps-for-linux-with-appimage)
+- [Synchronizing and backing up data with Syncthing and rclone](https://blog.jamesreed.dev/synchronizing-and-backing-up-data)
+- [Getting started with GNOME Shell extension development](https://blog.jamesreed.dev/gnome-shell-extension-development)
+- [Setting up a Linux home server with Ansible and containerized apps](https://blog.jamesreed.dev/setting-up-a-linux-home-server)
+- [A brief experiment in detecting ambient light](https://blog.jamesreed.dev/detecting-ambient-light)
 <!-- BLOG-POST-LIST:END -->
 - [...and more](https://twiddlingbits.net/)
 
